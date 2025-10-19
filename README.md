@@ -6,4 +6,4 @@ for run this project
 2-npm run build
 3-npx tailwindcss -i [input.css](http://_vscodecontentref_/0) -o [output.css](http://_vscodecontentref_/1) --watch
 or used this after npm run open 
-**npx live-server dist**
+##**npx live-server dist**
