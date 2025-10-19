@@ -1,4 +1,4 @@
-**kian scoial media app **
+# **kian scoial media app**
 # this is front end for kian scoial media site 
 # tools i used it basic HTML ,CSS ,JS and library **TAILWIND** FOR frontend 
 for run this project 
